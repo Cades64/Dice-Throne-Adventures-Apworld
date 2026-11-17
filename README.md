@@ -38,6 +38,31 @@ Works for solo or multiplayer Adventures at the same table (or remote, if everyo
 
 ---
 
+## How to play (table rules)
+
+Use the physical game as normal, with these Manual rules for randomized content:
+
+### Exploring a tile
+When you **explore** a tile, still spawn the minion shown in the **top-right** of that tile (fight it as usual when appropriate).
+
+Marking the tile as explored in the manual client.
+
+### Receiving a tile as an item
+When you **receive a tile’s name as an item**, do whatever else that tile instructs outside the top-right minion—typically the effects described in the **top-left** and **bottom-middle** of the tile.
+
+You do **not** treat “got the tile item” as automatically exploring the map space; follow the printed non-minion instructions on the tile.
+
+### Defeated enemies
+When you **receive a defeated-enemy item** (minion defeat, etc.), take the **reward stated on that enemy**.
+
+### Boss loot
+When you **receive a boss loot card as an item**, take the **reward stated on that card**.
+
+### Everything else
+If something is **not** covered in this README, it is **up to your group’s interpretation**. Agree at the table and stay consistent for that seed.
+
+---
+
 ## Goals (End Objective)
 
 | Goal | Notes |
